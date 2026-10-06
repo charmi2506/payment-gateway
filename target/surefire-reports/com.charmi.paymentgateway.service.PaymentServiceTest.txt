@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.charmi.paymentgateway.service.PaymentServiceTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.951 s -- in com.charmi.paymentgateway.service.PaymentServiceTest

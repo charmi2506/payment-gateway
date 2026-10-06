@@ -1,0 +1,3 @@
+com\charmi\paymentgateway\PaymentIntegrationTest.class
+com\charmi\paymentgateway\service\PaymentServiceTest.class
+com\charmi\paymentgateway\service\WebhookServiceTest.class
